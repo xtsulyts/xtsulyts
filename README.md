@@ -81,7 +81,7 @@ Mi camino incluye:
 Trabajar en desarrollo Web preferiblemente en proyectos relacionados con blockchain y tecnologías descentralizadas, ya sea en una empresa o de forma freelance.
 
 ## 🔗 Conéctate Conmigo
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/walter-manuel-frias-61b03244/)) 
+- [LinkedIn] (https://www.linkedin.com/in/walter-manuel-frias-61b03244/)
   
 
 Si te interesa colaborar o aprender más sobre mis proyectos, ¡no dudes en contactarme! 🚀
