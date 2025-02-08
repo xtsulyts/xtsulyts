@@ -75,7 +75,7 @@ Mi camino incluye:
 - Completar el desarrollo del **pool de swap**.
 - Perfeccionar mis habilidades en **React** y **TypeScript**.
 - Desplegar más contratos en la **red Sepolia** y explorar nuevas redes.
-- Avanzar en el aprendizaje de **Rust** y prepararme para montar un nodo de **Solana**.
+- Avanzar en el aprendizaje de **Rust** para desarrolloar proyectos en  **Solana**.
 
 ## 👨‍💼 Objetivo Profesional
 Trabajar en desarrollo Web preferiblemente en proyectos relacionados con blockchain y tecnologías descentralizadas, ya sea en una empresa o de forma freelance.
