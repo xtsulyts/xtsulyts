@@ -1,12 +1,12 @@
 # 👋 Bienvenido a mi Perfil de GitHub
 
 ## 📚 Sobre Mí
-Soy un desarrollador **Full Stack** apasionado por el ecosistema **Web3**, con una sólida base en **Python** y **TypeScript** . Mi objetivo es conectar el **frontend** y el **backend** mediante soluciones innovadoras, incluyendo contratos inteligentes y tecnologías blockchain.
+Soy un desarrollador **Full Stack** con sólida experiencia en **Python** y **TypeScript**, especializado en crear soluciones integrales que conectan **frontend** y **backend**. Mi experiencia abarca desde aplicaciones web tradicionales hasta proyectos innovadores con tecnología blockchain.
 
-Mi camino incluye:
-- **8 años** de experiencia como gerente de un restaurante, liderando equipos y resolviendo problemas complejos.
-- Formación en **Artes Visuales**, aportando una mirada creativa al diseño de interfaces.
-- Proyectos prácticos que abarcan **despliegues de contratos inteligentes** y el desarrollo de aplicaciones descentralizadas, despliegue de **apiRest** y **appWeb**.
+Mi trayectoria profesional incluye:
+- **Liderazgo y gestión de equipos**: 8 años dirigiendo operaciones complejas en el sector gastronómico, desarrollando habilidades de resolución de problemas y trabajo bajo presión.
+- **Enfoque creativo**: Formación en Artes Visuales aplicada al desarrollo de interfaces intuitivas y centradas en el usuario.
+- **Desarrollo full-stack**: Implementación de soluciones completas que incluyen APIs REST y aplicaciones web.
 
 ## 📚 Educación
 - **Tecnicatura Universitaria en Desarrollo Web**  
