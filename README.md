@@ -62,7 +62,7 @@ Mi trayectoria profesional incluye:
 - **Contribución:** Implementación de soluciones creativas para la gestión descentralizada.
 - **Tecnologías:** Solidity, Next.js, React, Typescript, nodejs, Hardhat, Scaffold-ETH, Sepolia Testnet
 
-###💰 AppWeb de Control de Gastos e Ingresos
+### 💰 AppWeb de Control de Gastos e Ingresos
 - **Descripción:** Aplicación fullstack para gestión financiera personal con categorización de transacciones, gráficos y exportación de reportes.
 - **Tecnologías:** Next.js, React, TypeScript, TailwindCSS. API REST con Django (Python), JWT auth, PostgreSQL
 - **Estado:** MVP funcional, optimizando rendimiento de consultas con Django ORM.
