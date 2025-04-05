@@ -57,9 +57,19 @@ Mi trayectoria profesional incluye:
   - 2023: Inglés Intermedio [Ver más](https://agenciadeaprendizaje.bue.edu.ar/)
 
 ## 💡 Proyectos Destacados
+### 💪 DAO Hackathon
+- **Descripción:** Participación en el desarrollo de una DAO ganadora en una hackathon.
+- **Contribución:** Implementación de soluciones creativas para la gestión descentralizada.
+- **Tecnologías:** Solidity, Next.js, React, Typescript, nodejs, Hardhat, Scaffold-ETH, Sepolia Testnet
+
+###💰 AppWeb de Control de Gastos e Ingresos
+- **Descripción:** Aplicación fullstack para gestión financiera personal con categorización de transacciones, gráficos y exportación de reportes.
+- **Tecnologías:** Next.js, React, TypeScript, TailwindCSS. API REST con Django (Python), JWT auth, PostgreSQL
+- **Estado:** MVP funcional, optimizando rendimiento de consultas con Django ORM.
+- 
 ### 💰 Pool de Swap
 - **Descripción:** Aplicación descentralizada para intercambiar tokens.
-- **Tecnologías:** Solidity, React, Scaffold-ETH, Sepolia Testnet
+- **Tecnologías:** Solidity, Next.js, React, Typescript, nodejs, Scaffold-ETH, Sepolia Testnet
 - **Estado:** En desarrollo, integrando funciones del backend al frontend con hooks.
 
 ### 📦 Subasta Descentralizada
@@ -67,18 +77,20 @@ Mi trayectoria profesional incluye:
 - **Tecnologías:** Solidity, React, Sepolia Testnet
 - **Estado:** Migrando a Scaffold-ETH para mejorar la arquitectura.
 
-### 💪 DAO Hackathon
-- **Descripción:** Participación en el desarrollo de una DAO ganadora en una hackathon.
-- **Contribución:** Implementación de soluciones creativas para la gestión descentralizada.
+### 🛒 E-commerce Minimalista (B2C)
+- **Descripción:** Plataforma de ventas online con carrito, pasarela de pago (Stripe/MercadoPago) y panel de administración.
+-**Tecnologías:** Vite, React,TypeScript), node.js,  TailwindCSS, Python, Django REST Framework, Token autentication.
+-**Estado: En desarrollo.
+
 
 ## 🌍 Metas Actuales
-- Completar el desarrollo del **pool de swap**.
+- Completar el desarrollo de **AppsWeb, APIs y DApps**.
 - Perfeccionar mis habilidades en **React** y **TypeScript**.
 - Desplegar más contratos en la **red Sepolia** y explorar nuevas redes.
 - Avanzar en el aprendizaje de **Rust** para desarrolloar proyectos en  **Solana**.
 
 ## 👨‍💼 Objetivo Profesional
-Trabajar en desarrollo Web preferiblemente en proyectos relacionados con blockchain y tecnologías descentralizadas, ya sea en una empresa o de forma freelance.
+"Desarrollador web enfocado en construir experiencias digitales robustas y accesibles. Mi objetivo es contribuir en proyectos innovadores que combinen usabilidad, rendimiento y buenas prácticas, ya sea en entornos tradicionales o en iniciativas descentralizadas (Web3). Busco oportunidades para crear soluciones digitales escalables y centradas en el usuario, ya sea en proyectos empresariales o como freelance. Me apasiona el desarrollo de aplicaciones modernas, la optimización de rendimiento y la colaboración en equipos multidisciplinarios."
 
 ## 🔗 Conéctate Conmigo
 - [LinkedIn] (https://www.linkedin.com/in/walter-manuel-frias-61b03244/)
