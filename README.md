@@ -1,4 +1,3 @@
-# 👋 Bienvenido a mi Perfil de GitHub
 
 ## 📚 Sobre Mí
 Soy un desarrollador **Full Stack** con sólida experiencia en **Python** y **TypeScript**, especializado en crear soluciones integrales que conectan **frontend** y **backend**. Mi experiencia abarca desde aplicaciones web tradicionales hasta proyectos innovadores con tecnología blockchain.
