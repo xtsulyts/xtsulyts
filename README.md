@@ -88,9 +88,6 @@ Mi trayectoria profesional incluye:
 - Desplegar más contratos en la **red Sepolia** y explorar nuevas redes.
 - Avanzar en el aprendizaje de **Rust** para desarrolloar proyectos en  **Solana**.
 
-## 👨‍💼 Objetivo Profesional
-"Desarrollador web enfocado en construir experiencias digitales robustas y accesibles. Mi objetivo es contribuir en proyectos innovadores que combinen usabilidad, rendimiento y buenas prácticas, ya sea en entornos tradicionales o en iniciativas descentralizadas (Web3). Busco oportunidades para crear soluciones digitales escalables y centradas en el usuario, ya sea en proyectos empresariales o como freelance. Me apasiona el desarrollo de aplicaciones modernas, la optimización de rendimiento y la colaboración en equipos multidisciplinarios."
-
 ## 🔗 Conéctate Conmigo
 - [LinkedIn] (https://www.linkedin.com/in/walter-manuel-frias-61b03244/)
   
