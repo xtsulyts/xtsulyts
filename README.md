@@ -1,6 +1,6 @@
 
 ## 📚 Sobre Mí
-Soy un desarrollador **Full Stack** con sólida experiencia en **Python** y **TypeScript**, especializado en crear soluciones integrales que conectan **frontend** y **backend**. Mi experiencia abarca desde aplicaciones web tradicionales hasta proyectos innovadores con tecnología blockchain.
+Soy un desarrollador **Full Stack** con experiencia en **Python** y **TypeScript**, especializadome en crear soluciones integrales que conectan **frontend** y **backend**. Mi experiencia abarca desde aplicaciones web tradicionales hasta proyectos innovadores con tecnología blockchain.
 
 Mi trayectoria profesional incluye:
 - **Liderazgo y gestión de equipos**: 8 años como gerente dirigiendo un negocio en el sector de alimantacion, desarrollando habilidades de resolución de problemas y trabajo bajo presión.
@@ -20,17 +20,22 @@ Mi trayectoria profesional incluye:
   [Ver más](https://mbelgrano-caba.infd.edu.ar/)
 
 ## 📈 Formación Complementaria
+- **ReactJs** - Talento Tech 2025
+   Ministerio de Educación de la Ciudad
 - **Ethereum Developer** - ETH.KIPU Latam 2024  
   Aprobado con Certificación on-chain  
   [Ver más](https://campus.ethkipu.org/)
 
-- **Curso de UX/UI** - Talento Tech 2024  
+- **Curso de UX/UI** - Talento Tech 2024
+  Ministerio de Educación de la Ciudad 
   Curso Completado, sin certificación
 
-- **Especialización en Django** - Codo a Codo 2023  
-  Aprobado con certificación
+- **Especialización en Django** - Codo a Codo 2022
+   Ministerio de Educación de la Ciudad
+   Aprobado con certificación
 
-- **Full Stack Python** - Codo a Codo 2022  
+- **Full Stack Python** - Codo a Codo 2022
+  Ministerio de Educación de la Ciudad  
   Aprobado con certificación
 
 - **Python Intermedio** - UTN-Learning 2021  
@@ -38,12 +43,12 @@ Mi trayectoria profesional incluye:
 
 - **Autodidacta en Python** - 2020
 
-- **Capacitación en Coaching de Liderazgo** – ProCp Consultora 2010  
+- **Coaching de Liderazgo** – ProCp Consultora 2010  
   Enfoque en comunicación efectiva, resolución de conflictos y desarrollo de equipos
 
 ## 💡 Habilidades Técnicas
-- **Lenguajes de Programación:** Python, Solidity, JavaScript/TypeScript, Rust (en aprendizaje)
-- **Frontend:** React, Next.js, Vite.js, Tailwind, HTML, CSS
+- **Lenguajes de Programación:** Python, JavaScript/TypeScript, Rust y Solidity (en aprendizaje)
+- **Frontend:** React, Next.js, Vite.js, HTML, CSS, Tailwind, Boostrap
 - **Backend:** Django, Flask
 - **Blockchain:** Solidity, Hardhat, Scaffold-eth, despliegue de contratos inteligentes (ERC-20, ERC-721) en redes de prueba de Ethereum, despliegue en red de pruebas Solana
 - **Bases de Datos:** PostgreSQL, MySQL (Workbench, PgAdmin)
@@ -63,13 +68,13 @@ Mi trayectoria profesional incluye:
 
 ### 💰 AppWeb de Control de Gastos e Ingresos
 - **Descripción:** Aplicación fullstack para gestión financiera personal con categorización de transacciones, gráficos y exportación de reportes.
-- **Tecnologías:** Next.js, React, TypeScript, TailwindCSS. API REST con Django (Python), JWT auth, PostgreSQL
+- **Tecnologías:** Next.js, React, TypeScript, TailwindCSS. API REST con Django (Python), autenticacion JWT, base de datos PostgreSQL.
 - **Estado:** MVP funcional, optimizando rendimiento de consultas con Django ORM.
   
 ### 💰 Pool de Swap
 - **Descripción:** Aplicación descentralizada para intercambiar tokens.
-- **Tecnologías:** Solidity, Next.js, React, Typescript, nodejs, Scaffold-ETH, Sepolia Testnet
-- **Estado:** En desarrollo, integrando funciones del backend al frontend con hooks.
+- **Tecnologías:** Solidity, Next.js, React, Typescript, nodejs, Scaffold-ETH, Sepolia Testnet.
+- **Estado:** En desarrollo, integrando funciones del conrtrato al frontend.
 
 ### 📦 Subasta Descentralizada
 - **Descripción:** Plataforma de subastas en la blockchain.
@@ -86,7 +91,7 @@ Mi trayectoria profesional incluye:
 - Completar el desarrollo de **AppsWeb, APIs y DApps**.
 - Perfeccionar mis habilidades en **React** y **TypeScript**.
 - Desplegar más contratos en la **red Sepolia** y explorar nuevas redes.
-- Avanzar en el aprendizaje de **Rust** para desarrolloar proyectos en  **Solana**.
+- Avanzar en el aprendizaje de **Rust** desplagar contratos en la red *Solana**.
 
 ## 🔗 Conéctate Conmigo
 - [LinkedIn] (https://www.linkedin.com/in/walter-manuel-frias-61b03244/)
