@@ -6,7 +6,6 @@ Mi trayectoria profesional incluye:
 - **Liderazgo y gestión de equipos**: 8 años como gerente dirigiendo un negocio en el sector de alimantacion, desarrollando habilidades de resolución de problemas y trabajo bajo presión.
 - **Enfoque creativo**: Formación en Artes Visuales aplicada al desarrollo de interfaces intuitivas y centradas en el usuario.
 - **Desarrollo full-stack**: Implementación de soluciones completas que incluyen APIs REST y aplicaciones web.
-
 ## 📚 Educación
 - **Tecnicatura Universitaria en Desarrollo Web**  
   Universidad Nacional de Entre Ríos  
@@ -16,33 +15,33 @@ Mi trayectoria profesional incluye:
 
 - **Profesor Nacional de Artes Visuales**  
   ISFA Escuela de Bellas Artes Manuel Belgrano  
-  **Año:** 2018-2024   
+  **Año:** 2018-2024  
   [Ver más](https://mbelgrano-caba.infd.edu.ar/)
 
 ## 📈 Formación Complementaria
-- **ReactJs** - Talento Tech 2025
-  Ministerio de Educación de la Ciudad
-  
+- **ReactJs** - Talento Tech 2025  
+  Ministerio de Educación de la Ciudad  
+
 - **Ethereum Developer** - ETH.KIPU Latam 2024  
   Aprobado con Certificación on-chain  
   [Ver más](https://campus.ethkipu.org/)
 
-- **Curso de UX/UI** - Talento Tech 2024
-- Ministerio de Educación de la Ciudad 
-  Curso Completado, sin certificación
-
-- **Especialización en Django** - Codo a Codo 2022
-  Ministerio de Educación de la Ciudad
-  Aprobado con certificación
-
-- **Full Stack Python** - Codo a Codo 2022
+- **Curso de UX/UI** - Talento Tech 2024  
   Ministerio de Educación de la Ciudad  
-  Aprobado con certificación
+  Curso Completado, sin certificación  
+
+- **Especialización en Django** - Codo a Codo 2022  
+  Ministerio de Educación de la Ciudad  
+  Aprobado con certificación  
+
+- **Full Stack Python** - Codo a Codo 2022  
+  Ministerio de Educación de la Ciudad  
+  Aprobado con certificación  
 
 - **Python Intermedio** - UTN-Learning 2021  
-  Curso Completado, sin certificación
+  Curso Completado, sin certificación  
 
-- **Autodidacta en Python** - 2020
+- **Autodidacta en Python** - 2020  
 
 - **Coaching de Liderazgo** – ProCp Consultora 2010  
   Enfoque en comunicación efectiva, resolución de conflictos y desarrollo de equipos
@@ -67,20 +66,20 @@ Mi trayectoria profesional incluye:
 - **Contribución:** Implementación de soluciones creativas para la gestión descentralizada.
 - **Tecnologías:** Solidity, Next.js, React, Typescript, nodejs, Hardhat, Scaffold-ETH, Sepolia Testnet
 
-### 💰 AppWeb de Control de Gastos e Ingresos
-- **Descripción:** Aplicación fullstack para gestión financiera personal con categorización de transacciones, gráficos y exportación de reportes.
-- **Tecnologías:** Next.js, React, TypeScript, TailwindCSS. API REST con Django (Python), autenticacion JWT, base de datos PostgreSQL.
+### 💰 AppWeb de control de ingresos y egresos.
+- **Descripción:** Aplicación fullstack para gestión de transacciones, gráficos y exportación de reportes.
+- **Tecnologías:** Next.js, React, TypeScript, TailwindCSS. API REST con Django, autenticacion JWT, base de datos PostgreSQL.
 - **Estado:** MVP funcional, optimizando rendimiento de consultas con Django ORM.
   
 ### 💰 Pool de Swap
-- **Descripción:** Aplicación descentralizada para intercambiar tokens.
+- **Descripción:** Aplicación de intercambio de tokens.
 - **Tecnologías:** Solidity, Next.js, React, Typescript, nodejs, Scaffold-ETH, Sepolia Testnet.
 - **Estado:** En desarrollo, integrando funciones del conrtrato al frontend.
 
-### 📦 Subasta Descentralizada
+### 📦 Subasta 
 - **Descripción:** Plataforma de subastas en la blockchain.
-- **Tecnologías:** Solidity, React, Sepolia Testnet
-- **Estado:** Migrando a Scaffold-ETH para mejorar la arquitectura.
+- **Tecnologías:** Solidity, Typescript, React, Hardhat.
+
 
 ### 🛒 E-commerce Minimalista (B2C)
 - **Descripción:** Plataforma de ventas online con carrito, pasarela de pago (Stripe/MercadoPago) y panel de administración.
