@@ -74,23 +74,23 @@ Mi trayectoria profesional incluye:
 ### 💰 Pool de Swap
 - **Descripción:** Aplicación de intercambio de tokens.
 - **Tecnologías:** Solidity, Next.js, React, Typescript, nodejs, Scaffold-ETH, Sepolia Testnet.
-- **Estado:** En desarrollo, integrando funciones del conrtrato al frontend.
+- **Estado:** En desarrollo, contrato desplegado en SepoliaTesnet, integrando funciones del conrtrato al frontend.
 
 ### 📦 Subasta 
-- **Descripción:** Plataforma de subastas en la blockchain.
+- **Descripción:** Plataforma de subastas EVM.
 - **Tecnologías:** Solidity, Typescript, React, Hardhat.
+- **Estado:** Contrato desplegado en SepoliaTesnet.
 
 
 ### 🛒 E-commerce Minimalista (B2C)
-- **Descripción:** Plataforma de ventas online con carrito, pasarela de pago (Stripe/MercadoPago) y panel de administración.
--**Tecnologías:** Vite, React,TypeScript), node.js,  TailwindCSS, Python, Django REST Framework, Token autentication.
+- **Descripción:** Plataforma de ventas online 
+-**Tecnologías:** nextJs, React, TypeScript, TailwindCSS, Django REST Framework, Token autentication JWT.
 -**Estado: En desarrollo.
 
 
 ## 🌍 Metas Actuales
 - Completar el desarrollo de **AppsWeb, APIs y DApps**.
 - Perfeccionar mis habilidades en **React** y **TypeScript**.
-- Desplegar más contratos en la **red Sepolia** y explorar nuevas redes.
 - Avanzar en el aprendizaje de **Rust** desplagar contratos en la red *Solana**.
 
 ## 🔗 Conéctate Conmigo
