@@ -68,7 +68,7 @@ Mi trayectoria profesional incluye:
 
 ### 💰 AppWeb de control de ingresos y egresos.
 - **Descripción:** Aplicación fullstack para gestión de transacciones, gráficos y exportación de reportes.
-- **Tecnologías:** Next.js, React, TypeScript, TailwindCSS. API REST con Django, autenticacion JWT, base de datos PostgreSQL.
+- **Tecnologías:** Next.js, React, TypeScript, TailwindCSS, Django REST Framework, autenticacion JWT, base de datos PostgreSQL.
 - **Estado:** MVP funcional, optimizando rendimiento de consultas con Django ORM.
   
 ### 💰 Pool de Swap
