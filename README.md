@@ -32,7 +32,7 @@ Mi trayectoria profesional incluye:
 
 - **Especialización en Django** - Codo a Codo 2023 
   Ministerio de Educación de la Ciudad  
-   Aprobado con certificación  
+  Aprobado con certificación  
 
 - **Full Stack Python** - Codo a Codo 2022  
   Ministerio de Educación de la Ciudad de Buenos Aires
