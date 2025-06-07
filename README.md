@@ -30,7 +30,7 @@ Mi trayectoria profesional incluye:
   Ministerio de Educación de la Ciudad  
   Curso Completado, sin certificación  
 
-- **Especialización en Django** - Codo a Codo 2022  
+- **Especialización en Django** - Codo a Codo 2023 
   Ministerio de Educación de la Ciudad  
   Aprobado con certificación  
 
@@ -72,9 +72,9 @@ Mi trayectoria profesional incluye:
 - **Estado:** MVP funcional, optimizando rendimiento de consultas con Django ORM.
   
 ### 💰 Pool de Swap
-- **Descripción:** Aplicación de intercambio de tokens.
-- **Tecnologías:** Solidity, Next.js, React, Typescript, nodejs, Scaffold-ETH, Sepolia Testnet.
-- **Estado:** En desarrollo, contrato desplegado en SepoliaTesnet, integrando funciones del conrtrato al frontend.
+- **Descripción:** Aplicación de creacion e intercambio de tokens estandar ERC20.
+- **Tecnologías:** Solidity, Next.js, React, Typescript, nodejs, Scaffold-ETH.
+- **Estado:** En desarrollo, contrato desplegado en SepoliaTesnet, integrando funciones del contrato al frontend.
 
 ### 📦 Subasta 
 - **Descripción:** Plataforma de subastas EVM.
