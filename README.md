@@ -20,14 +20,14 @@ Mi trayectoria profesional incluye:
 
 ## 📈 Formación Complementaria
 - **ReactJs** - Talento Tech 2025  
-  Ministerio de Educación de la Ciudad  
+  Ministerio de Educación de la Ciudad de Buenos Aires
 
 - **Ethereum Developer** - ETH.KIPU Latam 2024  
   Aprobado con Certificación on-chain  
   [Ver más](https://campus.ethkipu.org/)
 
 - **Curso de UX/UI** - Talento Tech 2024  
-  Ministerio de Educación de la Ciudad  
+  Ministerio de Educación de la Ciudad de Buenos Aires
   Curso Completado, sin certificación  
 
 - **Especialización en Django** - Codo a Codo 2023 
@@ -35,7 +35,7 @@ Mi trayectoria profesional incluye:
   Aprobado con certificación  
 
 - **Full Stack Python** - Codo a Codo 2022  
-  Ministerio de Educación de la Ciudad  
+  Ministerio de Educación de la Ciudad de Buenos Aires
   Aprobado con certificación  
 
 - **Python Intermedio** - UTN-Learning 2021  
