@@ -3,7 +3,7 @@
 Soy un desarrollador **Full Stack** con experiencia en **Python** y **TypeScript**, especializadome en crear soluciones integrales que conectan **frontend** y **backend**. Mi experiencia abarca desde aplicaciones web tradicionales hasta proyectos innovadores con tecnología blockchain.
 
 Mi trayectoria profesional incluye:
-- **Liderazgo y gestión de equipos**: 8 años como gerente dirigiendo un negocio en el sector de alimantacion, desarrollando habilidades de resolución de problemas y trabajo bajo presión.
+- **Liderazgo y gestión de equipos**: 8 años como gerente dirigiendo un negocio en el sector de alimantacion.
 - **Enfoque creativo**: Formación en Artes Visuales aplicada al desarrollo de interfaces intuitivas y centradas en el usuario.
 - **Desarrollo full-stack**: Implementación de soluciones completas que incluyen APIs REST y aplicaciones web.
 ## 📚 Educación
@@ -84,8 +84,8 @@ Mi trayectoria profesional incluye:
 
 ### 🛒 E-commerce Minimalista (B2C)
 - **Descripción:** Plataforma de ventas online 
--**Tecnologías:** nextJs, React, TypeScript, TailwindCSS, Django REST Framework, Token autentication JWT.
--**Estado: En desarrollo.
+- **Tecnologías:** nextJs, React, TypeScript, TailwindCSS, Django REST Framework, Token autentication JWT.
+- **Estado: En desarrollo.
 
 
 ## 🌍 Metas Actuales
