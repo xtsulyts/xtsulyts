@@ -29,7 +29,7 @@ Mi trayectoria profesional incluye:
   Ministerio de Educación de la Ciudad de Buenos Aires  
   Curso Completado, sin certificación  
 
-- **Especialización en Django** - Codo a Codo 2023 
+- **Especialización en Django** - Codo a Codo 2023  
   Ministerio de Educación de la Ciudad  
   Aprobado con certificación  
 
