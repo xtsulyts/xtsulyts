@@ -68,13 +68,13 @@ Mi trayectoria profesional incluye:
 
 ### 🛒 E-commerce (B2C)
 - **Descripción:** Plataforma de ventas online 
-- **Tecnologías:** nextJs, React, TypeScript, TailwindCSS, APIs REST: api.pexels.com – Imágenes de alta calidad, dummyjson.com – Simulación de usuarios y autenticación, mockapi.io – Datos simulados de productos.
+- **Tecnologías:** Vite, React, JavaScript, JXS, TailwindCSS, APIs REST: api.pexels.com – Imágenes de alta calidad, dummyjson.com – Simulación de usuarios y autenticación, mockapi.io – Datos simulados de productos.
 - **Estado: En desarrollo. [Ver más](https://graceful-bombolone-1915f7.netlify.app/)
 
 ### 💰 AppWeb de control de ingresos y egresos.
 - **Descripción:** Aplicación fullstack para gestión de transacciones, gráficos y exportación de reportes.
 - **Tecnologías:** Next.js, React, TypeScript, TailwindCSS, Django REST Framework, autenticacion JWT, base de datos PostgreSQL.
-- **Estado:** MVP funcional, optimizando rendimiento de consultas con Django ORM.
+- **Estado:** Desarrollo MVP funcional, optimizando rendimiento de consultas con Django ORM.
   
 ### 💰 Pool de Swap
 - **Descripción:** Aplicación de creacion e intercambio de tokens estandar ERC20.
