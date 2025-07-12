@@ -63,7 +63,8 @@ Mi trayectoria profesional incluye:
 ### 💪 DAO Hackathon
 - **Descripción:** Participación en el desarrollo de una DAO ganadora en una hackathon.
 - **Contribución:** Implementación de soluciones creativas para la gestión descentralizada de consorcio de edificios.
-- **Tecnologías:** Solidity, Next.js, React, Typescript, nodejs, Hardhat, Scaffold-ETH, Sepolia Testnet
+- **Tecnologías:** Solidity, Next.js, React, Typescript, nodejs, Hardhat, Scaffold-ETH, Sepolia Testnet.
+- [Ver más](https://hackatonbuildingdao.vercel.app/)
 
 ### 💰 AppWeb de control de ingresos y egresos.
 - **Descripción:** Aplicación fullstack para gestión de transacciones, gráficos y exportación de reportes.
@@ -81,13 +82,13 @@ Mi trayectoria profesional incluye:
 - **Estado:** Contrato desplegado en Sepolia Tesnet.
 
 
-### 🛒 E-commerce Minimalista (B2C)
+### 🛒 E-commerce (B2C)
 - **Descripción:** Plataforma de ventas online 
-- **Tecnologías:** nextJs, React, TypeScript, TailwindCSS, Django REST Framework, Token autentication JWT.
-- **Estado: En desarrollo. [Ver más](https://peaceful-horse-0c6d3a.netlify.app/)
+- **Tecnologías:** nextJs, React, TypeScript, TailwindCSS, APIs REST: api.pexels.com – Imágenes de alta calidad, dummyjson.com – Simulación de usuarios y autenticación, mockapi.io – Datos simulados de productos.
+- **Estado: En desarrollo. [Ver más](graceful-bombolone-1915f7.netlify.app/)
 
 
-## 🌍 Metas Actuales
+## 🌍 Actualmente
 - Completar el desarrollo de **AppsWeb, APIs y DApps**.
 - Perfeccionar mis habilidades en **React** y **TypeScript**.
 - Avanzar en el aprendizaje de **Rust** desplagar contratos en la red *Solana**.
