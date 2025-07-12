@@ -19,7 +19,7 @@ Mi trayectoria profesional incluye:
   [Ver más](https://mbelgrano-caba.infd.edu.ar/)
 ## 📈 Formación Complementaria
 - **ReactJs** - Talento Tech 2025  
-  Ministerio de Educación de la Ciudad de Buenos Aires
+  Ministerio de Educación de la Ciudad de Buenos Aires  
   Aprobado con certificación
 
 - **Ethereum DeveloperPack** - ETH.KIPU Latam 2024  
