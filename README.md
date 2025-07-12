@@ -21,7 +21,7 @@ Mi trayectoria profesional incluye:
 - **ReactJs** - Talento Tech 2025  
   Ministerio de Educación de la Ciudad de Buenos Aires
 
-- **Ethereum Developer** - ETH.KIPU Latam 2024  
+- **Ethereum DeveloperPack** - ETH.KIPU Latam 2024  
   Aprobado con Certificación on-chain  
   [Ver más](https://campus.ethkipu.org/)
 
@@ -49,7 +49,7 @@ Mi trayectoria profesional incluye:
 - **Lenguajes de Programación:** Python, JavaScript/TypeScript, Rust y Solidity (en aprendizaje)
 - **Frontend:** React, Next.js, Vite.js, HTML, CSS, Tailwind, Boostrap
 - **Backend:** Django, Flask
-- **Blockchain:** Solidity, Hardhat, Scaffold-eth, despliegue de contratos inteligentes (ERC-20, ERC-721) en redes de prueba de Ethereum, despliegue en red de pruebas Solana
+- **Blockchain:** Solidity, Hardhat, Scaffold-eth, despliegue de contratos inteligentes (ERC-20, ERC-721) en Sepolia Tesnet, despliegue en red de pruebas Solana
 - **Bases de Datos:** PostgreSQL, MySQL (Workbench, PgAdmin)
 - **DevOps y Sistemas Operativos:** Linux (shell scripting), Windows, Git/GitHub
 
@@ -62,7 +62,7 @@ Mi trayectoria profesional incluye:
 ## 💡 Proyectos Destacados
 ### 💪 DAO Hackathon
 - **Descripción:** Participación en el desarrollo de una DAO ganadora en una hackathon.
-- **Contribución:** Implementación de soluciones creativas para la gestión descentralizada.
+- **Contribución:** Implementación de soluciones creativas para la gestión descentralizada de consorcio de edificios.
 - **Tecnologías:** Solidity, Next.js, React, Typescript, nodejs, Hardhat, Scaffold-ETH, Sepolia Testnet
 
 ### 💰 AppWeb de control de ingresos y egresos.
@@ -78,13 +78,13 @@ Mi trayectoria profesional incluye:
 ### 📦 Subasta 
 - **Descripción:** Plataforma de subastas EVM.
 - **Tecnologías:** Solidity, Typescript, React, Hardhat.
-- **Estado:** Contrato desplegado en SepoliaTesnet.
+- **Estado:** Contrato desplegado en Sepolia Tesnet.
 
 
 ### 🛒 E-commerce Minimalista (B2C)
 - **Descripción:** Plataforma de ventas online 
 - **Tecnologías:** nextJs, React, TypeScript, TailwindCSS, Django REST Framework, Token autentication JWT.
-- **Estado: En desarrollo.
+- **Estado: En desarrollo. [Ver más](https://peaceful-horse-0c6d3a.netlify.app/)
 
 
 ## 🌍 Metas Actuales
