@@ -20,6 +20,7 @@ Mi trayectoria profesional incluye:
 ## 📈 Formación Complementaria
 - **ReactJs** - Talento Tech 2025  
   Ministerio de Educación de la Ciudad de Buenos Aires
+  Aprobado con certificación
 
 - **Ethereum DeveloperPack** - ETH.KIPU Latam 2024  
   Aprobado con Certificación on-chain  
