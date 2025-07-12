@@ -80,12 +80,13 @@ Mi trayectoria profesional incluye:
 - **Descripción:** Aplicación de creacion e intercambio de tokens estandar ERC20.
 - **Tecnologías:** Solidity, Next.js, React, Typescript, nodejs, Scaffold-ETH.
 - **Estado:** En desarrollo, contrato desplegado en SepoliaTesnet, integrando funciones del contrato al frontend.
+- [Ver más](https://testnet.routescan.io/address/0x5feDB630272394D23374E5A3b07294FCb76642cC/contract/11155111/code)
 
 ### 📦 Subasta 
 - **Descripción:** Plataforma de subastas EVM.
 - **Tecnologías:** Solidity, Typescript, React, Hardhat.
 - **Estado:** Contrato desplegado en Sepolia Tesnet.
-
+-  [Ver más](https://sepolia.scrollscan.com/address/0x0a8b81e1d51f4407ba573b8290361d0aae355c1e#code)
 
 
 ## 🌍 Actualmente
