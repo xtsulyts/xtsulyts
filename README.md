@@ -9,8 +9,8 @@ Mi trayectoria profesional incluye:
 ## 📚 Educación
 - **Tecnicatura Universitaria en Desarrollo Web**  
   Universidad Nacional de Entre Ríos  
-  **Inicio:** 2024 (en curso)  
-  **Promedio:** 8.2 (5 materias promocionadas)  
+  **Inicio:** 2024
+ 
   [Ver más](https://www.uner.edu.ar/)
 
 - **Profesor Nacional de Artes Visuales**  
