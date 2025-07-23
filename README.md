@@ -3,7 +3,7 @@
 Soy un desarrollador **Full Stack** con experiencia en **Python** y **TypeScript**, especializadome en crear soluciones integrales que conectan **frontend** y **backend**. Mi experiencia abarca desde aplicaciones web tradicionales hasta proyectos innovadores con tecnología blockchain.
 
 Mi trayectoria profesional incluye:
-- **Liderazgo y gestión de equipos**: 9 años como gerente dirigiendo un negocio en el sector de alimantacion.
+- **Liderazgo y gestión de equipos**: 9 años como gerente dirigiendo un negocio C.A.B.A y liderando equipos.
 - **Enfoque creativo**: Formación en Artes Visuales aplicada al desarrollo de interfaces intuitivas y centradas en el usuario.
 - **Desarrollo full-stack**: Implementación de soluciones completas que incluyen APIs REST y aplicaciones web.
 ## 📚 Educación
