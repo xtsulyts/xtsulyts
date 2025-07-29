@@ -9,8 +9,7 @@ Mi trayectoria profesional incluye:
 ## 📚 Educación
 - **Tecnicatura Universitaria en Desarrollo Web**  
   Universidad Nacional de Entre Ríos  
-  **Inicio:** 2024
- 
+  **Inicio:** 2024  
   [Ver más](https://www.uner.edu.ar/)
 
 - **Profesor Nacional de Artes Visuales**  
@@ -31,7 +30,7 @@ Mi trayectoria profesional incluye:
   Curso Completado, sin certificación  
 
 - **Especialización en Django** - Codo a Codo 2023  
-  Ministerio de Educación de la Ciudad  
+  Ministerio de Educación de la Ciudad de Buenos Aires  
   Aprobado con certificación  
 
 - **Full Stack Python** - Codo a Codo 2022  
