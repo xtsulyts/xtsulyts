@@ -24,7 +24,7 @@ Mi trayectoria profesional incluye:
 - **Ethereum DeveloperPack** - ETH.KIPU Latam 2024  
   Aprobado con certificación on-chain  
 
-- **Curso de UX/UI** - Talento Tech 2024  
+- **UX/UI** - Talento Tech 2024  
   Ministerio de Educación de la Ciudad de Buenos Aires  
   Curso Completado, sin certificación  
 
