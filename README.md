@@ -67,7 +67,7 @@ Mi trayectoria profesional incluye:
 
 ### 🛒 E-commerce (B2C)
 - **Descripción:** Plataforma de ventas online 
-- **Tecnologías:** Vite, React, JavaScript, JXS, TailwindCSS, APIs REST: api.pexels.com – Imágenes de alta calidad, dummyjson.com – Simulación de usuarios y autenticación, mockapi.io – Datos simulados de productos.
+- **Tecnologías:** NodeJs, ExpressJs, Vite, React, JavaScript, JXS, TailwindCSS, .
 - **Estado: En desarrollo. [Ver más](https://eshopdevices.netlify.app/)
 
 ### 💰 AppWeb de control de ingresos y egresos.
@@ -77,7 +77,7 @@ Mi trayectoria profesional incluye:
   
 ### 💰 Pool de Swap
 - **Descripción:** Aplicación de creacion e intercambio de tokens estandar ERC20.
-- **Tecnologías:** Solidity, Next.js, React, Typescript, nodejs, Scaffold-ETH.
+- **Tecnologías:** Solidity, Next.js, React, Typescript, Nodejs, Scaffold-ETH.
 - **Estado:** En desarrollo, contrato desplegado en SepoliaTesnet, integrando funciones del contrato al frontend.
 - [Ver más](https://swaperc20.netlify.app/)
 
