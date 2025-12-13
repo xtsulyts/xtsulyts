@@ -41,7 +41,7 @@ Mi trayectoria profesional incluye:
   Aprobado con certificación  
 
 - **Python Intermedio** - UTN-Learning 2021  
-  Curso Completado, sin certificación  
+  Aprobado  
 
 - **Autodidacta en Python** - 2020  
 
