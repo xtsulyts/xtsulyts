@@ -4,7 +4,7 @@
 
 Mi trayectoria profesional incluye:
 - **Liderazgo y gestión de equipos**: 9 años como gerente dirigiendo un negocio C.A.B.A y liderando equipos.
-- **Enfoque creativo**: Formación en Artes Visuales aplicada al desarrollo de interfaces intuitivas y centradas en el usuario.
+- **Artes Visuales**: Formación en Artes Visuales aplicada al desarrollo de interfaces intuitivas y centradas en el usuario.
 - **Desarrollo full-stack**: Implementación de soluciones completas que incluyen APIs REST y aplicaciones web.
 ## 📚 Educación
 - **Tecnicatura Universitaria en Desarrollo Web**  
@@ -17,6 +17,10 @@ Mi trayectoria profesional incluye:
   **Año:** 2018-2024  
   [Ver más](https://mbelgrano-caba.infd.edu.ar/)
 ## 📈 Formación Complementaria
+- **NodeJs** - Talento Tech 2025  
+  Ministerio de Educación de la Ciudad de Buenos Aires  
+  Aprobado con certificación
+  
 - **ReactJs** - Talento Tech 2025  
   Ministerio de Educación de la Ciudad de Buenos Aires  
   Aprobado con certificación
@@ -49,7 +53,7 @@ Mi trayectoria profesional incluye:
 - **Frontend:** React, Next.js, Vite.js, HTML, CSS, Tailwind, Boostrap
 - **Backend:** Django, Flask
 - **Blockchain:** Solidity, Hardhat, Scaffold-eth, despliegue de contratos inteligentes (ERC-20, ERC-721) en Sepolia Tesnet, despliegue en red de pruebas Solana
-- **Bases de Datos:** PostgreSQL, MySQL (Workbench, PgAdmin)
+- **Bases de Datos:** PostgreSQL, MySQL (Workbench, PgAdmin), Firebase. 
 - **DevOps y Sistemas Operativos:** Linux (shell scripting), Windows, Git/GitHub
 
 ## 🌍 Idiomas
