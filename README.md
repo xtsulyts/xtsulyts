@@ -84,7 +84,7 @@ Mi trayectoria profesional incluye:
   
 ### 💰 Pool de Swap
 - **Descripción:** Aplicación de creacion e intercambio de tokens estandar ERC20.
-- **Tecnologías:** Solidity, NextJs, React, Typescript, Nodejs, Hardhat.
+- **Tecnologías:** Solidity, ViteJs, React, Typescript, Nodejs, Hardhat, EVM.
 - **Estado:** En desarrollo MVP funcional.
 - [Ver más](https://swaperc20.netlify.app/)
 
