@@ -16,6 +16,7 @@ Mi trayectoria profesional incluye:
   ISFA Escuela de Bellas Artes Manuel Belgrano  
   **Año:** 2018-2024  
   [Ver más](https://mbelgrano-caba.infd.edu.ar/)
+  
 ## 📈 Formación Complementaria
 - **NodeJs** - Talento Tech 2025  
   Ministerio de Educación de la Ciudad de Buenos Aires  
@@ -49,12 +50,12 @@ Mi trayectoria profesional incluye:
   Enfoque en comunicación efectiva, resolución de conflictos y desarrollo de equipos
 
 ## 💡 Habilidades Técnicas
-- **Lenguajes de Programación:** Python, JavaScript/TypeScript, Rust y Solidity (en aprendizaje)
-- **Frontend:** React, Next.js, Vite.js, HTML, CSS, Tailwind, Boostrap
-- **Backend:** Django, Flask
+- **Lenguajes de Programación:** Python, JavaScript/TypeScript, Solidity.
+- **Frontend:** React, Next.js, Vite.js, HTML, CSS, Tailwind, Boostrap.
+- **Backend:** Python, Django, Flask, NodeJs, ExpressJs.
 - **Blockchain:** Solidity, Hardhat, Scaffold-eth, despliegue de contratos inteligentes (ERC-20, ERC-721) en Sepolia Tesnet, despliegue en red de pruebas Solana
 - **Bases de Datos:** PostgreSQL, MySQL (Workbench, PgAdmin), Firebase. 
-- **DevOps y Sistemas Operativos:** Linux (shell scripting), Windows, Git/GitHub
+- **DevOps y Sistemas Operativos:** Linux (shell scripting), Windows, Git/GitHub.
 
 ## 🌍 Idiomas
 - **Español:** Nativo
@@ -71,18 +72,20 @@ Mi trayectoria profesional incluye:
 
 ### 🛒 E-commerce (B2C)
 - **Descripción:** Plataforma de ventas online 
-- **Tecnologías:** NodeJs, ExpressJs, Vite, React, JavaScript, JXS, TailwindCSS, .
-- **Estado: En desarrollo. [Ver más](https://eshopdevices.netlify.app/)
+- **Tecnologías:** NodeJs, ExpressJs, Vite, React, JavaScript, TailwindCSS, Firebase.
+- **Estado: En desarrollo MVP funcional.
+- [Ver más](https://eshopdevices.netlify.app/)
 
 ### 💰 AppWeb de control de ingresos y egresos.
 - **Descripción:** Aplicación fullstack para gestión de transacciones, gráficos y exportación de reportes.
-- **Tecnologías:** Next.js, React, TypeScript, TailwindCSS, Django REST Framework, autenticacion JWT, base de datos PostgreSQL.
-- **Estado:** Desarrollo MVP funcional, optimizando rendimiento de consultas con Django ORM.
+- **Tecnologías:** NextJs, React, TypeScript, TailwindCSS, Python, Django, PostgreSQL.
+- **Estado:** Desarrollo MVP funcional.
+-  [Ver más](https://django-dashboard-financial-r5limqw2z-xtsulyts-projects.vercel.app/)
   
 ### 💰 Pool de Swap
 - **Descripción:** Aplicación de creacion e intercambio de tokens estandar ERC20.
-- **Tecnologías:** Solidity, Next.js, React, Typescript, Nodejs, Scaffold-ETH.
-- **Estado:** En desarrollo, contrato desplegado en SepoliaTesnet, integrando funciones del contrato al frontend.
+- **Tecnologías:** Solidity, NextJs, React, Typescript, Nodejs, Hardhat.
+- **Estado:** En desarrollo MVP funcional.
 - [Ver más](https://swaperc20.netlify.app/)
 
 ### 📦 Subasta 
