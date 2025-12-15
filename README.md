@@ -80,7 +80,7 @@ Mi trayectoria profesional incluye:
 - **Descripción:** Aplicación fullstack para gestión de transacciones, gráficos y exportación de reportes.
 - **Tecnologías:** NextJs, React, TypeScript, TailwindCSS, Python, Django, PostgreSQL.
 - **Estado:** Desarrollo MVP funcional.
--  [Ver más](https://django-dashboard-financial-r5limqw2z-xtsulyts-projects.vercel.app/)
+-  [Ver más](https://django-dashboard-financial.vercel.app/)
   
 ### 💰 Pool de Swap
 - **Descripción:** Aplicación de creacion e intercambio de tokens estandar ERC20.
