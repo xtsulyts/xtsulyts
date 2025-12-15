@@ -63,7 +63,7 @@ Mi trayectoria profesional incluye:
   - 2024: Plataforma English Discoveries [Ver más](https://ed31.engdis.com/cababilingue#)
   - 2023: Inglés Intermedio [Ver más](https://agenciadeaprendizaje.bue.edu.ar/)
 
-## 💡 Proyectos Destacados
+## 💡 Proyectos 
 ### 💪 DAO Hackathon
 - **Descripción:** Participación en el desarrollo de una DAO ganadora en una hackathon.
 - **Contribución:** Implementación de soluciones creativas para la gestión descentralizada de consorcio de edificios.
