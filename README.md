@@ -90,7 +90,7 @@ Mi trayectoria profesional incluye:
 
 ### 📦 Subasta 
 - **Descripción:** Plataforma de subastas EVM.
-- **Tecnologías:** Solidity, Typescript, React, Hardhat.
+- **Tecnologías:** Solidity, Hardhat, Typescript, NodeJs.
 - **Estado:** Contrato desplegado en Sepolia Tesnet.
 -  [Ver más](https://sepolia.scrollscan.com/address/0x0a8b81e1d51f4407ba573b8290361d0aae355c1e#code)
 
