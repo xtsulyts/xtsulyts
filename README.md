@@ -64,17 +64,18 @@ Mi trayectoria profesional incluye:
   - 2023: Inglés Intermedio [Ver más](https://agenciadeaprendizaje.bue.edu.ar/)
 
 ## 💡 Proyectos 
-### 💪 DAO Hackathon
-- **Descripción:** Participación en el desarrollo de una DAO ganadora en una hackathon.
-- **Contribución:** Implementación de soluciones creativas para la gestión descentralizada de consorcio de edificios.
-- **Tecnologías:** Solidity, Next.js, React, Typescript, nodejs, Hardhat, Scaffold-ETH, Sepolia Testnet.
-- [Ver más](https://hackatonbuildingdao.vercel.app/)
 
 ### 🛒 E-commerce (B2C)
 - **Descripción:** Plataforma de ventas online 
 - **Tecnologías:** NodeJs, ExpressJs, Vite, React, JavaScript, TailwindCSS, Firebase.
 - **Estado: En desarrollo MVP funcional.
 - [Ver más](https://eshopdevices.netlify.app/)
+
+### 💪 DAO Hackathon
+- **Descripción:** Participación en el desarrollo de una DAO ganadora en una hackathon.
+- **Contribución:** Implementación de soluciones creativas para la gestión descentralizada de consorcio de edificios.
+- **Tecnologías:** Solidity, Next.js, React, Typescript, nodejs, Hardhat, Scaffold-ETH, Sepolia Testnet.
+- [Ver más](https://hackatonbuildingdao.vercel.app/)
 
 ### 💰 AppWeb de control de ingresos y egresos.
 - **Descripción:** Aplicación fullstack para gestión de transacciones, gráficos y exportación de reportes.
