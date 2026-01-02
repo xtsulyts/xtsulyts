@@ -98,7 +98,7 @@ Mi trayectoria profesional incluye:
 ## 🌍 Actualmente
 - Completar el desarrollo de **AppsWeb, APIs y DApps**.
 - Perfeccionar mis habilidades en **React** y **TypeScript**.
-- Avanzar en el aprendizaje de **Rust** desplagar contratos en la red *Solana**.
+- Avanzar en el aprendizaje de  **Solidity>** y **Rust**.
 
 ## 🔗 Conéctate Conmigo
 - [LinkedIn] (https://www.linkedin.com/in/walter-manuel-frias-61b03244/)
