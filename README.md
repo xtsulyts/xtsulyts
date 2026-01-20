@@ -52,7 +52,7 @@ Mi trayectoria profesional incluye:
 ## 💡 Habilidades Técnicas
 - **Lenguajes de Programación:** Python, JavaScript/TypeScript, Solidity.
 - **Frontend:** React, Next.js, Vite.js, HTML, CSS, Tailwind, Boostrap.
-- **Backend:** Python, Django, Flask, NodeJs, ExpressJs.
+- **Backend:** Docker, Python, Django, NodeJs, ExpressJs.
 - **Blockchain:** Solidity, Hardhat, Scaffold-eth, despliegue de contratos inteligentes (ERC-20, ERC-721) en Sepolia Tesnet, despliegue en red de pruebas Solana
 - **Bases de Datos:** PostgreSQL, MySQL (Workbench, PgAdmin), Firebase. 
 - **DevOps y Sistemas Operativos:** Linux (shell scripting), Windows, Git/GitHub.
@@ -68,7 +68,7 @@ Mi trayectoria profesional incluye:
 ### 🛒 E-commerce (B2C)
 - **Descripción:** Plataforma de ventas online 
 - **Tecnologías:** NodeJs, ExpressJs, Vite, React, JavaScript, TailwindCSS, Firebase.
-- **Estado: En desarrollo MVP funcional.
+- **Estado: En desplegado MVP funcional.
 - [Ver más](https://eshopdevices.netlify.app/)
 
 ### 💪 DAO Hackathon
@@ -79,14 +79,14 @@ Mi trayectoria profesional incluye:
 
 ### 💰 AppWeb de control de ingresos y egresos.
 - **Descripción:** Aplicación fullstack para gestión de transacciones, gráficos y exportación de reportes.
-- **Tecnologías:** NextJs, React, TypeScript, TailwindCSS, Python, Django, PostgreSQL.
-- **Estado:** Desarrollo MVP funcional.
+- **Tecnologías:** Docker, NextJs, React, TypeScript, TailwindCSS, Python, Django, PostgreSQL.
+- **Estado:** Desplegado MVP funcional.
 -  [Ver más](https://django-dashboard-financial.vercel.app/)
   
 ### 💰 Pool de Swap
 - **Descripción:** Aplicación de creacion e intercambio de tokens estandar ERC20.
 - **Tecnologías:** Solidity, ViteJs, React, Typescript, Nodejs, Hardhat, EVM.
-- **Estado:** En desarrollo MVP funcional.
+- **Estado:** En desplegado MVP funcional.
 - [Ver más](https://swaperc20.netlify.app/)
 
 ### 📦 Subasta 
