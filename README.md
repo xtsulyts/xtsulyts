@@ -53,14 +53,14 @@ Mi trayectoria profesional incluye:
 - **Lenguajes de Programación:** Python, JavaScript/TypeScript, Solidity.
 - **Frontend:** React, Next.js, Vite.js, HTML, CSS, Tailwind, Boostrap.
 - **Backend:** Docker, Python, Django, NodeJs, ExpressJs.
-- **Blockchain:** Solidity, Hardhat, Scaffold-eth, despliegue de contratos inteligentes (ERC-20, ERC-721) en Sepolia Tesnet, despliegue en red de pruebas Solana
-- **Bases de Datos:** PostgreSQL, MySQL (Workbench, PgAdmin), Firebase. 
+- **Blockchain:** Solidity, Hardhat, Viem, Scaffold-eth, despliegue de contratos inteligentes (ERC-20, ERC-721) en Sepolia Tesnet, despliegue en red de pruebas Solana
+- **Bases de Datos:** PostgreSQL, MySQL, Firebase. 
 - **DevOps y Sistemas Operativos:** Linux (shell scripting), Windows, Git/GitHub.
 
 ## 🌍 Idiomas
 - **Español:** Nativo
-- **Inglés:** Intermedio (en mejora con clases particulares en 2025)
-  - 2024: Plataforma English Discoveries [Ver más](https://ed31.engdis.com/cababilingue#)
+- **Inglés:** Intermedio (en mejora con clases particulares)
+  - 2024: [Ver más](https://ed31.engdis.com/cababilingue#)
   - 2023: Inglés Intermedio [Ver más](https://agenciadeaprendizaje.bue.edu.ar/)
 
 ## 💡 Proyectos 
@@ -68,7 +68,7 @@ Mi trayectoria profesional incluye:
 ### 🛒 E-commerce (B2C)
 - **Descripción:** Plataforma de ventas online 
 - **Tecnologías:** NodeJs, ExpressJs, Vite, React, JavaScript, TailwindCSS, Firebase.
-- **Estado: En desplegado MVP funcional.
+- **Estado: Desplegado MVP funcional.
 - [Ver más](https://eshopdevices.netlify.app/)
 
 ### 💪 DAO Hackathon
@@ -86,7 +86,7 @@ Mi trayectoria profesional incluye:
 ### 💰 Pool de Swap
 - **Descripción:** Aplicación de creacion e intercambio de tokens estandar ERC20.
 - **Tecnologías:** Solidity, ViteJs, React, Typescript, Nodejs, Hardhat, EVM.
-- **Estado:** En desplegado MVP funcional.
+- **Estado:** Desplegado MVP funcional.
 - [Ver más](https://swaperc20.netlify.app/)
 
 ### 📦 Subasta 
