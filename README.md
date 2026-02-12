@@ -14,7 +14,7 @@ Aplicación fullstack con gráficos, transacciones y reportes.
 
 ### 🛒 E-commerce B2C
 Plataforma de ventas online. Carrito, productos, demo funcional.  
-**Stack:** Node.js · Express · React · Vite · Tailwind · Firebase  
+**Stack:** Node.js · Typescript · Express · React · Vite · Tailwind · Firebase  
 🔗 [eshopdevices.netlify.app](https://eshopdevices.netlify.app/)
 
 ### 💪 DAO Hackathon
@@ -29,14 +29,14 @@ Creación e intercambio de tokens ERC20.
 
 ---
 
-## 🛠 Habilidades
+## 🛠 Habilidades Tecnicas
 
 **Lenguajes:** Python, TypeScript/JavaScript, Solidity  
 **Frontend:** React, Next.js, Vite, Tailwind, Bootstrap  
 **Backend:** Node.js, Express, Django, REST APIs  
 **Blockchain:** Hardhat, Viem, Scaffold-ETH, ERC20/721, Sepolia, Solana  
 **Bases de datos:** PostgreSQL, MySQL, Firebase  
-**Herramientas:** Docker, Linux, Git/GitHub
+**DevOps y OS:** Docker, Linux, Git/GitHub
 
 ---
 
