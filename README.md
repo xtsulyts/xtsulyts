@@ -14,7 +14,7 @@ Plataforma de ventas online. Carrito, productos, demo funcional.
 
 ### 🔁 Pool de Swap
 Creación e intercambio de tokens ERC20.  
-**Stack:** Solidity · Vite · React · TypeScript · Hardhat  
+**Stack:** Solidity · Vite · React · TypeScript · Hardhat · Tailwind  
 🔗 [swaperc20.netlify.app](https://swaperc20.netlify.app/)
 
 ### 💪 DAO Hackathon
