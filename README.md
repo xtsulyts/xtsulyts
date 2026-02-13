@@ -40,7 +40,6 @@ docker pull xtsulyts/nextjs_docker_dashboard_financial_frontend:latest
 **Bases de datos:** PostgreSQL, MySQL, Firebase  
 **DevOps y OS:** Docker, Linux, Git/GitHub
 
----
 
 ## 📚 Formación
 
@@ -49,7 +48,7 @@ docker pull xtsulyts/nextjs_docker_dashboard_financial_frontend:latest
 
 ## 🌐 English: Intermediate (reading docs, basic conversation)
 
----
+
 
 ## 🔗 Conectá conmigo
 
