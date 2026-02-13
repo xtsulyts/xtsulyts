@@ -7,25 +7,25 @@ Construyo aplicaciones web completas y contratos inteligentes en EVM/Solana.
 
 ## 🚀 Proyectos
 
-### 💰 App de control financiero
-Aplicación fullstack con gráficos, transacciones y reportes.  
-**Stack:** Docker · Next.js · TypeScript · Tailwind · Django · PostgreSQL  
-🔗 [django-dashboard-financial.vercel.app](https://django-dashboard-financial.vercel.app/)
-
 ### 🛒 E-commerce B2C
 Plataforma de ventas online. Carrito, productos, demo funcional.  
-**Stack:** Node.js · Typescript · Express · React · Vite · Tailwind · Firebase  
+**Stack:** Nodejs · Typescript · Express · React · Vite · Tailwind · Firebase  
 🔗 [eshopdevices.netlify.app](https://eshopdevices.netlify.app/)
-
-### 💪 DAO Hackathon
-Participación en DAO ganadora (gestión de consorcios).  
-**Stack:** Solidity · Next.js · TypeScript · Hardhat · Scaffold-ETH  
-🔗 [hackatonbuildingdao.vercel.app](https://hackatonbuildingdao.vercel.app/)
 
 ### 🔁 Pool de Swap
 Creación e intercambio de tokens ERC20.  
 **Stack:** Solidity · Vite · React · TypeScript · Hardhat  
 🔗 [swaperc20.netlify.app](https://swaperc20.netlify.app/)
+
+### 💪 DAO Hackathon
+Participación en DAO ganadora (gestión de consorcios).  
+**Stack:** Solidity · Nextjs · TypeScript · Hardhat · Scaffold-ETH  
+🔗 [hackatonbuildingdao.vercel.app](https://hackatonbuildingdao.vercel.app/)
+
+### 💰 App de control financiero
+Aplicación fullstack con gráficos, transacciones y reportes.  
+**Stack:** Docker · Nextjs · TypeScript · Tailwind · Django · PostgreSQL  
+
 
 ---
 
