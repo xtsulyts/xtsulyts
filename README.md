@@ -26,8 +26,8 @@ Participación en DAO ganadora (gestión de consorcios).
 Aplicación fullstack con gráficos, transacciones y reportes.  
 **Stack:** Docker · Nextjs · TypeScript · Tailwind · Django · PostgreSQL
 
-### Descargar imagenes ###   
-`docker pull xtsulyts/nextjs_docker_dashboard_financial_backend:latest`
+### Descargar imagenes ###  
+`docker pull xtsulyts/nextjs_docker_dashboard_financial_backend:latest`   
 `docker pull xtsulyts/nextjs_docker_dashboard_financial_frontend:latest`
 
 ## 🛠 Habilidades Tecnicas
