@@ -1,8 +1,6 @@
 
 👋 Full stack developer con foco en Python y TypeScript.
 
-Construyo aplicaciones web completas y contratos inteligentes en EVM/Solana.
-
 ---
 
 ## 🚀 Proyectos
@@ -32,10 +30,10 @@ Aplicación fullstack con gráficos, transacciones y reportes.
 
 ## 🛠 Habilidades Tecnicas
 
-**Lenguajes:** Python, TypeScript/JavaScript, Solidity  
+**Lenguajes:** Python, TypeScript/JavaScript 
 **Frontend:** React, Next.js, Vite, Tailwind, Bootstrap  
 **Backend:** Node.js, Express, Django, REST APIs  
-**Blockchain:** Hardhat, Viem, Scaffold-ETH, ERC20/721, Sepolia, Solana  
+**Blockchain:** Hardhat, Viem, Scaffold-ETH, ERC20/721, Sepolia, Solana DevNet  
 **Bases de datos:** PostgreSQL, MySQL, Firebase  
 **DevOps y OS:** Docker, Linux, Git/GitHub
 
