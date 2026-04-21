@@ -34,8 +34,8 @@ Participación en DAO ganadora (gestión de consorcios).
 
 **Lenguajes:** Python, TypeScript/JavaScript   
 **Frontend:** React, Next.js, Angular, Vite, Tailwind    
-**Backend:** Node.js, ExpressJs, Django, REST APIs, NestJs   
-**Blockchain:** Solidity, Hardhat, Viem, Wagmi, Scaffold-ETH, ERC20/721, Sepolia, Solana DevNet    
+**Backend:** Node.js, ExpressJs, Django, NestJs   
+**Blockchain:** Solidity, Hardhat, Viem, Wagmi, Scaffold-ETH, ERC20/721, Sepolia TesNet, Solana DevNet    
 **Bases de datos:** PostgreSQL, MySQL, Firebase    
 **DevOps y OS:** Docker, Linux, Git/GitHub  
 
