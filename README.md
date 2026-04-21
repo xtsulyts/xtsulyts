@@ -12,18 +12,18 @@ Plataforma de ventas online. Carrito, productos, demo funcional.
 
 ### 🔁 Pool de Swap
 Creación e intercambio de tokens ERC20.  
-**Stack:** Solidity · Vite · React · TypeScript · Hardhat · Tailwind  
+**Stack:** Solidity · Vite · React · TypeScript · Hardhat · Tailwind · Wagmi 
 🔗 [swaperc20.netlify.app](https://swaperc20.netlify.app/)
 
 ### 💪 DAO Hackathon                                                                                                
 Participación en DAO ganadora (gestión de consorcios).                                                              
-**Stack:** Solidity · Nextjs · TypeScript · Hardhat · Scaffold-ETH                                                  
+**Stack:** Solidity · Nextjs · TypeScript · React · Hardhat · Scaffold-ETH                                                  
 🔗 [hackatonbuildingdao.vercel.app](https://hackatonbuildingdao.vercel.app/) · 
 🔗 [Devpost](https://devpost.com/software/buildingdao-democratic-desicion-making#) 
 
 ### 💰 App de control financiero                                                                                    
 Aplicación fullstack con gráficos, transacciones y reportes.                                                        
-**Stack:** Docker · Nextjs · TypeScript · Tailwind · Django · PostgreSQL                                            
+**Stack:** Docker · Nextjs · TypeScript · React · Tailwind · Django · PostgreSQL                                            
 🔗 [Frontend](https://django-dashboard-financial.vercel.app/) · 🔗 [Backend 
 API](https://django-dashboard-financial.onrender.com/docs)                                                              
   `docker pull xtsulyts/django_docker_dashboard_financial_backend:latest`
@@ -31,10 +31,10 @@ API](https://django-dashboard-financial.onrender.com/docs)
 
 ## 🛠 Habilidades Tecnicas
 
-**Lenguajes:** Python, TypeScript/JavaScript   
-**Frontend:** React, Next.js, Vite, Tailwind, Bootstrap  
-**Backend:** Node.js, Express, Django, REST APIs  
-**Blockchain:** Hardhat, Viem, Scaffold-ETH, ERC20/721, Sepolia, Solana DevNet  
+**Lenguajes:** Python, TypeScript/JavaScript 
+**Frontend:** React, Next.js, Angular, Vite, Tailwind  
+**Backend:** Node.js, ExpressJs, Django, REST APIs, NestJs 
+**Blockchain:** Solidity, Hardhat, Viem, Wagmi, Scaffold-ETH, ERC20/721, Sepolia, Solana DevNet  
 **Bases de datos:** PostgreSQL, MySQL, Firebase  
 **DevOps y OS:** Docker, Linux, Git/GitHub
 
