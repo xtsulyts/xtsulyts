@@ -24,7 +24,7 @@ Participación en DAO ganadora (gestión de consorcios).
 Aplicación fullstack con gráficos, transacciones y reportes.                                                        
 **Stack:** Docker · Nextjs · TypeScript · Tailwind · Django · PostgreSQL                                            
 🔗 [Frontend](https://django-dashboard-financial.vercel.app/) · 🔗 [Backend 
-API](https://django-dashboard-financial.onrender.com/)                                                              
+API](https://django-dashboard-financial.onrender.com/docs)                                                              
   `docker pull xtsulyts/django_docker_dashboard_financial_backend:latest`
   `docker pull xtsulyts/nextjs_docker_dashboard_financial_frontend:latest` 
 
