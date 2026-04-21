@@ -15,10 +15,11 @@ Creación e intercambio de tokens ERC20.
 **Stack:** Solidity · Vite · React · TypeScript · Hardhat · Tailwind  
 🔗 [swaperc20.netlify.app](https://swaperc20.netlify.app/)
 
-### 💪 DAO Hackathon
-Participación en DAO ganadora (gestión de consorcios).  
-**Stack:** Solidity · Nextjs · TypeScript · Hardhat · Scaffold-ETH  
-🔗 [hackatonbuildingdao.vercel.app](https://hackatonbuildingdao.vercel.app/)
+### 💪 DAO Hackathon                                                                                                
+Participación en DAO ganadora (gestión de consorcios).                                                              
+**Stack:** Solidity · Nextjs · TypeScript · Hardhat · Scaffold-ETH                                                  
+🔗 [hackatonbuildingdao.vercel.app](https://hackatonbuildingdao.vercel.app/) · 🔗                                   
+[Devpost](https://devpost.com/software/buildingdao-democratic-desicion-making#) 
 
 ### 💰 App de control financiero                                                                                    
 Aplicación fullstack con gráficos, transacciones y reportes.                                                        
