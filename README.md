@@ -7,7 +7,7 @@
 
 ### 🔁 Pool de Swap
 Creación e intercambio de tokens ERC20.  
-**Stack:** Solidity · Vite · React · TypeScript · Hardhat · Tailwind · Wagmi 
+**Stack:** Solidity · Vite · React · TypeScript · Hardhat · Tailwind · Wagmi  
 🔗 [swaperc20.netlify.app](https://swaperc20.netlify.app/)
 
 ### 💰 App de control financiero                                                                                    
