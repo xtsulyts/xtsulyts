@@ -18,8 +18,8 @@ Creación e intercambio de tokens ERC20.
 ### 💪 DAO Hackathon                                                                                                
 Participación en DAO ganadora (gestión de consorcios).                                                              
 **Stack:** Solidity · Nextjs · TypeScript · Hardhat · Scaffold-ETH                                                  
-🔗 [hackatonbuildingdao.vercel.app](https://hackatonbuildingdao.vercel.app/) · 🔗                                   
-[Devpost](https://devpost.com/software/buildingdao-democratic-desicion-making#) 
+🔗 [hackatonbuildingdao.vercel.app](https://hackatonbuildingdao.vercel.app/) · 
+🔗 [Devpost](https://devpost.com/software/buildingdao-democratic-desicion-making#) 
 
 ### 💰 App de control financiero                                                                                    
 Aplicación fullstack con gráficos, transacciones y reportes.                                                        
