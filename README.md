@@ -1,5 +1,5 @@
 
-👋 Full stack developer con foco en Python y TypeScript.
+👋 Full stack developer Python y TypeScript.
 
 ---
 
