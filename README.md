@@ -22,6 +22,7 @@ Aplicación fullstack con gráficos, transacciones y reportes.
 Plataforma de ventas online. Carrito, productos, demo funcional.  
 **Stack:** Nodejs · Typescript · Express · React · Vite · Tailwind · Firebase  
  [eshopdevices.netlify.app](https://eshopdevices.netlify.app/)  
+ [Backend API](https://nodejs-25258.onrender.com/)  
 
 ###  DAO Hackathon                                                                                                
 Participación en DAO ganadora (gestión de consorcios).                                                              
