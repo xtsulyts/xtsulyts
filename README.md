@@ -18,7 +18,7 @@ Aplicación fullstack con gráficos, transacciones y reportes.
   `docker pull xtsulyts/django_docker_dashboard_financial_backend:latest`  
   `docker pull xtsulyts/nextjs_docker_dashboard_financial_frontend:latest`  
   
-### 🛒 E-commerce B2C
+###  E-commerce B2C
 Plataforma de ventas online. Carrito, productos, demo funcional.  
 **Stack:** Nodejs · Typescript · Express · React · Vite · Tailwind · Firebase  
  [eshopdevices.netlify.app](https://eshopdevices.netlify.app/)  
