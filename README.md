@@ -13,7 +13,7 @@ Creación e intercambio de tokens ERC20.
 ###  App de control financiero                                                                                    
 Aplicación fullstack con gráficos, transacciones y reportes.                                                        
 **Stack:** Docker · Nextjs · TypeScript · React · Tailwind · Django · PostgreSQL                                            
- [https://django-dashboard-financial.vercel.app/](https://django-dashboard-financial.vercel.app/) ·  
+ [django-dashboard-financial.vercel.app](https://django-dashboard-financial.vercel.app/) ·  
  [Backend API](https://django-dashboard-financial.onrender.com/docs)  
   `docker pull xtsulyts/django_docker_dashboard_financial_backend:latest`  
   `docker pull xtsulyts/nextjs_docker_dashboard_financial_frontend:latest`  
